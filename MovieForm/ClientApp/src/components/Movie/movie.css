@@ -1,0 +1,32 @@
+﻿
+
+
+
+
+.movie-box{
+    border:3px solid black;
+    flex-basis:20%;
+    margin:10px;
+    border-radius:10px;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+}
+
+.poster-img{
+    width:300px;
+    height:400px;
+}
+
+
+h3{
+    text-align:center;
+}
+
+h5:hover{
+    cursor:pointer;
+    background-color:red;
+    color:white!important;
+    transition:0.6s;
+}

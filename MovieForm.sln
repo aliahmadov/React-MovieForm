@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieForm", "MovieForm\MovieForm.csproj", "{5264F63A-DCF9-48DB-876F-286618D92D1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5264F63A-DCF9-48DB-876F-286618D92D1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5264F63A-DCF9-48DB-876F-286618D92D1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5264F63A-DCF9-48DB-876F-286618D92D1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5264F63A-DCF9-48DB-876F-286618D92D1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFA1E510-AA5A-4DA9-B0A2-F585D9C3C2EA}
+	EndGlobalSection
+EndGlobal
